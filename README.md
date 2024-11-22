@@ -10,6 +10,8 @@ This project seeks to bring to light the subject that generate more revenues and
 - What are the total lectures on each subject?
 - Which year was most subject published?
 - Does the payment metric affect courses?
+- Interactive Dashbord 
+  Dahboard interaction  <a href=https://github.com/Comfort-del/Report-on-Udemy-Courses/blob/main/Comfort%20Quansah%20Power%20BI%20project.pbix>View dashboard</a>
  # Process
 - Missing values checked for data quality. 
 - Columns data types changed to the right type. 
